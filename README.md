@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Madison 👋
+I'm a freelance developer and designer based in Phoenix, AZ with a background that spans military aviation, field service engineering, and multimedia production. I bring a problem-solver's mindset to every project I take on.
 
-<!--
-**MJWilde93/MJWilde93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🛠️ What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages & Development
+  Python (automation, scripting, data tools, etc)
+  HTML
+  SQL
+
+
+Design & Creative
+  Graphic Design & Branding
+  Logo Design
+  Social Media Content & Strategy
